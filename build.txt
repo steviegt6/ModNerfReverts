@@ -1,3 +1,4 @@
 displayName = Mod Nerf Reverts
 author = convicted tomatophile (Stevie)
 version = 1.0.0
+weakReferences = FargowiltasSouls

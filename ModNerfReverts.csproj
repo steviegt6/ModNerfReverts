@@ -13,4 +13,12 @@
   <ItemGroup>
     <PackageReference Include="tModLoader.CodeAssist" Version="0.1.*" />
   </ItemGroup>
+  <ItemGroup>
+    <Reference Include="FargowiltasSouls">
+      <HintPath>..\..\references\mods\FargowiltasSouls_v1.3.2.5.dll</HintPath>
+    </Reference>
+    <Reference Include="MMHOOK_FargowiltasSouls_v1.3.2.5">
+      <HintPath>..\..\references\mods\MMHOOK_FargowiltasSouls_v1.3.2.5.dll</HintPath>
+    </Reference>
+  </ItemGroup>
 </Project>
