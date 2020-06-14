@@ -1,1 +1,3 @@
-Mod Nerf Reverts is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+Mod Nerf Reverts is a configurable mod that allows you to disable nerfs from mods.
+
+Currently supported mods:
